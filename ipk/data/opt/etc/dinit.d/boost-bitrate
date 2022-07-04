@@ -1,0 +1,4 @@
+type = scripted
+command = modmanager enable diy_glasses boost_bitrate
+stop-command = modmanager disable diy_glasses boost_bitrate
+

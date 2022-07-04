@@ -1,0 +1,6 @@
+Package: boost-bitrate
+Version: 0.0.1
+Maintainer: funnel
+Description: Boosts bitrate to 30/60Mbits/s.
+Architecture: armv7-3.2
+Depends: wtfos-modloader
