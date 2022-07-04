@@ -1,11 +1,13 @@
-# Title
+# DJI FPV Bitrate booster
 
+Increases the bitrate to 30Mbit in 25Mbit mode and 59.9Mbit in 50Mbit mode.
 
 
 ## Installation
 
 Install:
-- `opkg install .......
+- `download ipk`
+- `opkg install package-name.ipk`
 
 
 Or manually:
