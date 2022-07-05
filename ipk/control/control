@@ -1,5 +1,5 @@
 Package: boost-bitrate
-Version: 0.0.1
+Version: 0.0.2
 Maintainer: funnel
 Description: Boosts bitrate to 30/60Mbits/s.
 Architecture: pigeon-glasses
