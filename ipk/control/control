@@ -1,6 +1,6 @@
 Package: boost-bitrate
-Version: 0.0.2
+Version: 0.0.3
 Maintainer: funnel
-Description: Boosts bitrate to 30/60Mbits/s.
+Description: Increases bitrate up to 30/60Mbits/s.
 Architecture: pigeon-glasses
 Depends: wtfos-modloader
