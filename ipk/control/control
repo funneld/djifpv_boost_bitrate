@@ -1,6 +1,7 @@
 Package: boost-bitrate
-Version: 0.0.3
+Version: 0.0.4
 Maintainer: funnel
 Description: Increases bitrate up to 30/60Mbits/s.
+Homepage: https://github.com/funneld/djifpv_boost_bitrate
 Architecture: pigeon-glasses
 Depends: wtfos-modloader
