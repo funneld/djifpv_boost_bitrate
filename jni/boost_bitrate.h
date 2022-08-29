@@ -1,11 +1,11 @@
 #include <time.h>
 
 static void *guiLib = 0;
-static bool started = false;
+static bool started_bb = false;
 static void (* timeOut)(void *this) = 0;
 static uint32_t (* getInstance)() = 0;
-struct timespec start, now;
-static uint32_t instance = 0;
+struct timespec start_bb, now_bb;
+static uint32_t instance_bb = 0;
 
 typedef struct GlassRacingChnlUI GlassRacingChnlUI, *PGlassRacingChnlUI;
 typedef struct GlassRacingChnlUI GlassRacingChnlUI_t;
@@ -317,4 +317,4 @@ struct __gs_gui_config {
 	int (* gs_pwm_buzzer_enable_bat)(void *ctx,bool enable);
 };
 
-static __gs_gui_config *gs_gui_config = 0;
+static __gs_gui_config *gs_gui_config_bb = 0;
